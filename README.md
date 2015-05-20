@@ -2,7 +2,7 @@
 Desarrollo de un software para el MEP, para agilizar el proceso de solicitud de beca.
 <<<<<<< HEAD
 
-Modificado en mi escritorio -> Alex
+Modificado en mi escritorio -> Alexff
 =======
 esteban was here
 testin . . . .
